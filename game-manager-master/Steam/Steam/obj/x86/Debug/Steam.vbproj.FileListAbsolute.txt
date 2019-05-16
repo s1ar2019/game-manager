@@ -1,0 +1,18 @@
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\bin\Debug\Steam.exe
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\bin\Debug\Steam.pdb
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\bin\Debug\Steam.xml
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\obj\x86\Debug\Steam.Resources.resources
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\obj\x86\Debug\Steam.vbproj.GenerateResource.Cache
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\obj\x86\Debug\Steam.exe
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\obj\x86\Debug\Steam.xml
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\obj\x86\Debug\Steam.pdb
+C:\Users\Toni\Documents\Automática y Robótica Industrial\M10\Programing\Steam\Steam\Steam\obj\x86\Debug\Steam.Testing.resources
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\obj\x86\Debug\Steam.exe
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\obj\x86\Debug\Steam.xml
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\obj\x86\Debug\Steam.pdb
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\bin\Debug\Steam.exe
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\bin\Debug\Steam.pdb
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\bin\Debug\Steam.xml
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\obj\x86\Debug\Steam.Resources.resources
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\obj\x86\Debug\Steam.Testing.resources
+C:\Users\s1ar11.ELEN.002\Downloads\game-manager-master\Steam\Steam\obj\x86\Debug\Steam.vbproj.GenerateResource.Cache
